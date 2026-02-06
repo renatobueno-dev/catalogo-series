@@ -1,6 +1,6 @@
-📺 Catálogo de Séries — API com FastAPI
+# 📺 Catálogo de Séries — API com FastAPI
 
-🧠 Como foi meu processo
+## 🧠 Como foi meu processo
 
 Alguns pontos importantes do meu processo:
 
@@ -16,7 +16,7 @@ Alguns pontos importantes do meu processo:
     
 - Em momentos fiquei confuso e precisei revisar, mas essas dúvidas ajudaram a entender melhor a separação de responsabilidades e organização.
 
-🗂️ Organização do projeto
+## 🗂️ Organização do projeto
 
 O projeto foi organizado em pastas para facilitar o entendimento e a manutenção:
 
@@ -28,22 +28,22 @@ Essa parte foi a que mais passei tempo pensando como estruturar
 Quis fazer uma organização mais complexa, porém não tive visão para fazer isso de forma eficiente, então optei por uma estrutura mais simples, mas que ainda assim separa algumas responsabilidades.
 A organização me ajuda a enxergar melhor o papel de cada parte do sistema, mesmo que eu ainda não tenha total clareza de como tudo se conecta.
 
-📌 Aprendizados principais
+## 📌 Aprendizados principais
 
 - Entender melhor como APIs são estruturadas
 - Trabalhar com validação de dados usando Pydantic
 - Diferenciar persistência em arquivo e em banco de dados
 - Criar rotas HTTP com tratamento de erros
   
-🤯 Maior desafio
+## 🤯 Maior desafio
 
 Foi entender que o SQLite e o JSON não são usados ao mesmo tempo, mas sim como opções de persistência. No início, fiquei confuso achando que ambos deveriam ser usados juntos, mas depois entendi que são alternativas para armazenar os dados.
 
-📎 Observação final
+## 📎 Observação final
 
 Este repositório faz parte do meu processo de aprendizado em programação do zero.
 Foi um processo de muitas tentativas, ajustes, dúvidas e evolução.
 
-📝 Nota sobre autoria
+## 📝 Nota sobre autoria
 
 Este README foi redigido com apoio de uma ferramenta de IA, com base nas minhas próprias explicações, dúvidas e reflexões durante o desenvolvimento do projeto, e revisado por mim para garantir que represente fielmente meu processo de aprendizado.
