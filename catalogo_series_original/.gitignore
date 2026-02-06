@@ -1,0 +1,22 @@
+# OS / tooling noise
+.DS_Store
+.env
+.venv
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+
+# Uvicorn reload artifacts
+*.log
+
+# Data files (generated at runtime)
+*.db
+*.db-journal
+
+# Documentation for Educational Purposes
+doc_educacional.md
